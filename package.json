@@ -1,10 +1,10 @@
 {
-  "name": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
+  "name": "KILLER XMD ",
   "version": "4.0.0",
   "description": "A WhatsApp Bot Created By 🄾🄱🄴🄳 🅃🄴🄲🄷",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name HUNTER-XMD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KILLER-XMD",
     "stop": "pm2 stop KILLER XMD ",
     "restart": "pm2 restart KILLER XMD "
   },
