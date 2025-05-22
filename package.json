@@ -2,7 +2,7 @@
   "name": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
   "version": "4.0.0",
   "description": "A WhatsApp Bot Created By 🄾🄱🄴🄳 🅃🄴🄲🄷",
-  "main": "killer.js",
+  "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name HUNTER-XMD",
     "stop": "pm2 stop ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
