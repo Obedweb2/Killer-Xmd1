@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name HUNTER-XMD",
-    "stop": "pm2 stop ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
-    "restart": "pm2 restart ᏦᏆᏞᏞᎬᎡ ХᎷᎠ "
+    "stop": "pm2 stop KILLER XMD ",
+    "restart": "pm2 restart KILLER XMD "
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
