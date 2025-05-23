@@ -1,12 +1,12 @@
 {
-  "name": "HUNTER-XMD",
+  "name": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By ObedTechX",
+  "description": "A WhatsApp Bot Created By 🄾🄱🄴🄳 🅃🄴🄲🄷",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name HUNTER-XMD",
-    "stop": "pm2 stop HUNTER-XMD",
-    "restart": "pm2 restart HUNTER-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name KILLER-XMD",
+    "stop": "pm2 stop KILLER-XMD",
+    "restart": "pm2 restart KILLER-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
